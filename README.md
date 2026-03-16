@@ -23,7 +23,7 @@
 
 **AlgoNet** is a full-stack network routing simulator built from the ground up. The core engine, written in C++17, implements Dijkstra's shortest path algorithm on dynamically constructed network topologies. A modern React frontend provides real-time, interactive graph visualization with animated packet routing.
 
-> **Key Differentiator:** The frontend ships with a built-in JavaScript Dijkstra implementation, so the entire simulator works as a **standalone web app** without the C++ backend — perfect for demos and quick exploration. When the backend is running, it seamlessly delegates computation to the C++ engine for production-grade performance.
+
 
 ---
 
