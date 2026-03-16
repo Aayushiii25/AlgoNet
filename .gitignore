@@ -1,0 +1,26 @@
+# C++ Build
+simulator/build/
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Logs
+*.log
+npm-debug.log*
